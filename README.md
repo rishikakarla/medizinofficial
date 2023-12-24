@@ -6,9 +6,6 @@ This is a web based application developed for health related based website in in
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://lively-cliff-07f619b10.2.azurestaticapps.net
-**project demo video link** - 
-
 ## Azure technologies used for Project
 
 - Static web apps
@@ -74,8 +71,6 @@ This is a web based application developed for health related based website in in
 ## Tech Stack 💻!!
 
 
-
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
 - CSS
 - Bootstrap
